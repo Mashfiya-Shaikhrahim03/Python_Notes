@@ -6,3 +6,4 @@ This repo contains my python lectures NOTES for beginner with practice program!
 - conditionals rules and strings <br>
 - list and tuples
 - Dictionary and sets
+- while loop & for loop in python.
